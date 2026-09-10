@@ -1,4 +1,4 @@
-# 🔴 Projet 4 — Classification d'images par Deep Learning (CNN) et déploiement Cloud
+#  Projet 4 — Classification d'images par Deep Learning (CNN) et déploiement Cloud
 
 ## Objectif
 Entraîner un réseau de neurones convolutif (par transfer learning) puis le déployer sur une plateforme Cloud accessible via une API.
